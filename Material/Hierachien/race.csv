@@ -1,0 +1,14 @@
+WHITE;{White};*
+WHITE - OTHER EUROPEAN;{White};*
+WHITE - BRAZILIAN;{White};*
+PORTUGUESE;{White};*
+BLACK/AFRICAN AMERICAN;{Black};*
+BLACK/CAPE VERDEAN;{Black};*
+HISPANIC/LATINO - CUBAN;{Hispanic};*
+HISPANIC/LATINO - SALVADORAN;{Hispanic};*
+HISPANIC/LATINO - PUERTO RICAN;{Hispanic};*
+HISPANIC OR LATINO;{Hispanic};*
+UNABLE TO OBTAIN;{Unknown, Other};*
+UNKNOWN;{Unknown, Other};*
+PATIENT DECLINED TO ANSWER;{Unknown, Other};*
+OTHER;{Unknown, Other};*

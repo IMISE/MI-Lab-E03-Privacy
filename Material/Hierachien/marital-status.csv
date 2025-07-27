@@ -1,0 +1,5 @@
+MARRIED;Spouse present;*
+DIVORCED;Spouse not present;*
+WIDOWED;Spouse not present;*
+SINGLE;Spouse not present;*
+;Unknown;*
