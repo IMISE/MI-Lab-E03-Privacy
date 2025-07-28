@@ -17,6 +17,6 @@ Installieren Sie das Tool nachdem Sie dieses heruntergeladen haben.
 ## Ordnerstruktur
 - `Aufgaben\` Beinhaltet Übungsblatt, Präsentationsfolien und Lösungen
 - `Material\`
-  - `Datensatz\` Der MIMIC Datensatz für diese Übung in CSV-Format
-  - `Zwischenlösungen` Zwischenlösungen die in ARX importiert werden können in .deid Format
-
+  - `Datensatz\` Der MIMIC-Datensatz für diese Übung in CSV-Format
+  - `Zwischenlösungen\` Zwischenlösungen die in ARX importiert werden können in .deid Format
+  - `Hirachien\` Hirachien für den MIMIC-Datensatz in CSV-Format
