@@ -1,22 +1,22 @@
 # MI-Lab-E03-Privacy
 
-Dieses Repository enthält die Übungsmaterialien für die MI-Lab Übung 3 zum Thema **Pseudonymisierung** mit dem [ARX-Tool](https://arx.deidentifier.org/).
+This repository contains the exercise materials for MI-Lab Exercise 3 on **pseudonymization** using the [ARX tool](https://arx.deidentifier.org/).
 
-## Vorbereitung 
-1. Installieren Sie vor Übungsbeginn das ARX Tool (ca. 10 min).
-2. Klonen Sie dieses Repository:
+## Preparation 
+1. Install the ARX tool before the exercise begins (approx. 10 min).
+2. Clone this repository:
    git clone https://github.com/IMISE/MI-Lab-E03-Privacy.git
 
 ## Installation ARX
-Das ARX-Tool für diese Übung kann direkt unter dem folgenden Link heruntergeladen werden: [Download](https://arx.deidentifier.org/?ddownload=2136) (Windows). 
+The ARX tool for this exercise can be downloaded directly from the following link: [Download](https://arx.deidentifier.org/?ddownload=2136) (Windows). 
 
--> Für andere Betriebssysteme (Linux, MacOS) laden Sie den entsprechenden Installer unter der [ARX Webseite](https://arx.deidentifier.org/downloads/) herunter.
+-> For other operating systems (Linux, MacOS), download the appropriate installer from the [ARX website](https://arx.deidentifier.org/downloads/).
 
-Installieren Sie das Tool nachdem Sie dieses heruntergeladen haben. 
+Install the tool after downloading it. 
 
-## Ordnerstruktur
-- `Aufgaben\` Beinhaltet Übungsblatt, Präsentationsfolien und Lösungen
+## Folder Structure
+- `Exercise\` Contains exercise sheet, presentation slides, and solutions
 - `Material\`
-  - `Datensatz\` Der MIMIC-Datensatz für diese Übung in CSV-Format
-  - `Zwischenlösungen\` Zwischenlösungen die in ARX importiert werden können in .deid Format
-  - `Hirachien\` Hirachien für den MIMIC-Datensatz in CSV-Format
+  - `Dataset\` The MIMIC dataset for this exercise in CSV format
+  - `Intermediate_solutions\` Intermediate solutions that can be imported into ARX in .deid format
+  - `Hirachies\` Hierarchies for the MIMIC dataset in CSV format
